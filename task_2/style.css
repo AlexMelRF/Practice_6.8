@@ -1,0 +1,14 @@
+ p, code {
+    padding-left: 20px;
+ }
+ 
+ p {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: large;
+    color: rgb(93, 42, 10);
+    font-weight: bold;
+}
+
+code {
+    font-size: large;
+}
