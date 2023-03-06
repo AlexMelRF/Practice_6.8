@@ -1,0 +1,18 @@
+label, button, p {
+    color: rgb(93, 42, 10);
+    font-family: 'Gill Sans', sans-serif;
+    font-size: large;
+}
+
+.wrapper {
+    display: flex;
+    width: 30%;
+}
+
+button {
+    margin-top: 50px;
+}
+
+input {
+    width: 340px;
+}

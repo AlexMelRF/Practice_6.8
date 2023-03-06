@@ -1,0 +1,11 @@
+a {
+    display: flex;
+    padding-top: 50px;
+    color: rgb(93, 42, 10);
+    font-family: 'Gill Sans', sans-serif;
+    font-size: large;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(107, 19, 207);
+}
